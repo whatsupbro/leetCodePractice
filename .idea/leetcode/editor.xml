@@ -19,6 +19,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BinaryTreeZigzagLevelOrderTraversal.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BinaryTreeZigzagLevelOrderTraversal.java" />
+              <option name="questionId" value="103" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BuKePaiZhongDeShunZiLcof.java">
           <value>
             <LeetcodeEditor>
@@ -91,6 +99,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FirstMissingPositive.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FirstMissingPositive.java" />
+              <option name="questionId" value="41" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/GenerateParentheses.java">
           <value>
             <LeetcodeEditor>
@@ -136,6 +152,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KthLargestElementInAnArray.java" />
               <option name="questionId" value="215" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LargestNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LargestNumber.java" />
+              <option name="questionId" value="179" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -243,6 +267,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveKDigits.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveKDigits.java" />
+              <option name="questionId" value="402" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RestoreTheArrayFromAdjacentPairs.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RestoreTheArrayFromAdjacentPairs.java" />
+              <option name="questionId" value="1866" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseNodesInKGroup.java">
           <value>
             <LeetcodeEditor>
@@ -344,6 +384,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TrappingRainWater.java" />
               <option name="questionId" value="42" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TrappingRainWaterIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TrappingRainWaterIi.java" />
+              <option name="questionId" value="407" />
             </LeetcodeEditor>
           </value>
         </entry>

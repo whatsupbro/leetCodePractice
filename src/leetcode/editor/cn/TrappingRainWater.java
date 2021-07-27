@@ -33,6 +33,10 @@
 
 package leetcode.editor.cn;
 
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.Stack;
+
 public class TrappingRainWater {
     public static void main(String[] args) {
         Solution solution = new TrappingRainWater().new Solution();
@@ -42,7 +46,26 @@ public class TrappingRainWater {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
+
         public int trap(int[] height) {
+            int sum = 0;
+            Deque<Integer> stack = new LinkedList<>();
+            for (int i = 0; i < height.length; i++) {
+                while (!stack.isEmpty() && height[stack.peek()] <= height[i]) {
+                    int curH = stack.pop();
+                    curH = height[curH];
+                    if (!stack.isEmpty()) {
+                        curH = Math.min(height[stack.peek()], height[i]) - curH;
+                        sum += curH * (i - stack.peek() - 1);
+                    }
+                }
+                stack.push(i);
+            }
+            return sum;
+        }
+
+
+        public int trap1(int[] height) {
             if (height.length <= 2) return 0;
             int re = 0;
             int max = 0;
@@ -62,6 +85,8 @@ public class TrappingRainWater {
             }
             return re - max * height.length - dup;
         }
+
+
     }
 //leetcode submit region end(Prohibit modification and deletion)
 
