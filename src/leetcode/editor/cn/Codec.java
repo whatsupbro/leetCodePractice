@@ -33,6 +33,7 @@ public class Codec {
         }
         res.deleteCharAt(res.length() - 1);
         res.append("]");
+        System.out.println(res);
         return res.toString();
     }
 
