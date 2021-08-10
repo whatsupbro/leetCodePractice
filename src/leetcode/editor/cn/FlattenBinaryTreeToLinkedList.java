@@ -47,12 +47,19 @@ package leetcode.editor.cn;
 
 import java.util.LinkedList;
 import java.util.Stack;
+import java.util.regex.Pattern;
 
 public class FlattenBinaryTreeToLinkedList {
     public static void main(String[] args) {
-        Solution solution = new FlattenBinaryTreeToLinkedList().new Solution();
-        solution.flatten(new Codec().deserialize("[1,null,5,null,6]"));
+        //Solution solution = new FlattenBinaryTreeToLinkedList().new Solution();
+        //solution.flatten(new Codec().deserialize("[1,null,5,null,6]"));
+        String s = "2//13hvofi46.56WFE34,5";
+        String pattern = "/[A-Z]/";
+        String[] arr = s.split(pattern);
+        System.out.println(arr);
     }
+
+
 
 //leetcode submit region begin(Prohibit modification and deletion)
 
