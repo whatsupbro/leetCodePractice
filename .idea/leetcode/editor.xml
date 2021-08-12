@@ -243,6 +243,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubsequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubsequence.java" />
+              <option name="questionId" value="516" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LowestCommonAncestorOfABinaryTree.java">
           <value>
             <LeetcodeEditor>
@@ -368,6 +376,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RestoreTheArrayFromAdjacentPairs.java" />
               <option name="questionId" value="1866" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseLinkedListIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseLinkedListIi.java" />
+              <option name="questionId" value="92" />
             </LeetcodeEditor>
           </value>
         </entry>
