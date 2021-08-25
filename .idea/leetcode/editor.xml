@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AllPathsFromSourceToTarget.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AllPathsFromSourceToTarget.java" />
+              <option name="questionId" value="813" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BinaryTreeMaximumPathSum.java">
           <value>
             <LeetcodeEditor>
@@ -176,6 +184,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/GenerateParentheses.java" />
               <option name="questionId" value="22" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/GetMaximumInGeneratedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/GetMaximumInGeneratedArray.java" />
+              <option name="questionId" value="1769" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -512,6 +528,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SpiralMatrix.java" />
               <option name="questionId" value="54" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/StudentAttendanceRecordIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/StudentAttendanceRecordIi.java" />
+              <option name="questionId" value="552" />
             </LeetcodeEditor>
           </value>
         </entry>
