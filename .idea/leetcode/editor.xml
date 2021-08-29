@@ -155,6 +155,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindMedianFromDataStream.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindMedianFromDataStream.java" />
+              <option name="questionId" value="295" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindMinimumTimeToFinishAllJobs.java">
           <value>
             <LeetcodeEditor>
@@ -211,6 +219,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ImplementRand10UsingRand7.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ImplementRand10UsingRand7.java" />
+              <option name="questionId" value="903" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ImplementStrstr.java">
           <value>
             <LeetcodeEditor>
@@ -259,6 +275,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestCommonSubsequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestCommonSubsequence.java" />
+              <option name="questionId" value="1250" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestIncreasingSubsequence.java">
           <value>
             <LeetcodeEditor>
@@ -296,6 +320,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximalSquare.java" />
               <option name="questionId" value="221" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray.java" />
+              <option name="questionId" value="718" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -547,6 +579,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumRootToLeafNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumRootToLeafNumbers.java" />
+              <option name="questionId" value="129" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SurroundedRegions.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SurroundedRegions.java" />
+              <option name="questionId" value="130" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SwapNodesInPairs.java">
           <value>
             <LeetcodeEditor>
@@ -600,6 +648,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ValidNumber.java" />
               <option name="questionId" value="65" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ValidateBinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ValidateBinarySearchTree.java" />
+              <option name="questionId" value="98" />
             </LeetcodeEditor>
           </value>
         </entry>
